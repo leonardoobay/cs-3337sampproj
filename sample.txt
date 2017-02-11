@@ -1,0 +1,7 @@
+touch .git ignore 
+// to create a file called git ignore thats an empt text file 
+
+git init initializes and creates .igit folder
+
+
+
